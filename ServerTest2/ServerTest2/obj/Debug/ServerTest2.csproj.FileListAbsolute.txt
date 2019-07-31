@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\bin\Debug\ServerTest2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\bin\Debug\ServerTest2.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\bin\Debug\ServerTest2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\obj\Debug\ServerTest2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\obj\Debug\ServerTest2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\obj\Debug\ServerTest2.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\obj\Debug\ServerTest2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ServerTest2\ServerTest2\bin\Debug\MySql.Data.xml

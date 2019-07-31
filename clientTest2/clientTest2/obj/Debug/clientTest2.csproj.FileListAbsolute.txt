@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\bin\Debug\clientTest2.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\bin\Debug\clientTest2.exe
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\bin\Debug\clientTest2.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.Form1.resources
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.csproj.CoreCompileInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.exe
+c:\users\administrator\documents\visual studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.ReceiveMessage.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.SendMesage.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\clientTest2\clientTest2\obj\Debug\clientTest2.LoginForm.resources

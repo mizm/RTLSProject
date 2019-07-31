@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\bin\Debug\clientTest2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\bin\Debug\clientTest2.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\bin\Debug\clientTest2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\clientTest2.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\clientTest2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\clientTest2.ReceiveMessage.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\clientTest2.SendMesage.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\monitorTest1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\monitorTest1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\clientTest2.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\clientTest2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\monitorTest1\clientTest2\obj\Debug\monitorTest1.csprojResolveAssemblyReference.cache
